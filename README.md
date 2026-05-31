@@ -1,4 +1,4 @@
-** The Pattern Recognition Cheat Code ** 
+*The Pattern Recognition Cheat Code*
 
 "Find minimum X such that condition is true"  → Binary Search on Answer
 "Find maximum X such that condition is true"  → Binary Search on Answer
