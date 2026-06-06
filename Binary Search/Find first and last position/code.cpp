@@ -37,3 +37,6 @@ int findLast(vector<int>& arr, int target) {
 vector<int> searchRange(vector<int>& nums, int target) {
     return {findFirst(nums, target), findLast(nums, target)};
 }
+
+
+Time complexity O(log n), Space O(1).
