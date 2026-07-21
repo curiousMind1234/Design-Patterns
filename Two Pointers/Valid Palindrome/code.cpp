@@ -17,5 +17,9 @@ bool isPalindrome(string s) {
     return true;
 }
 
+Input: s = "A man, a plan, a canal: Panama"
+Output: true
+Explanation: "amanaplanacanalpanama" is a palindrome.
+
 Time Complexity: O(n)
 Space Complexity: O(1) (no extra space)
